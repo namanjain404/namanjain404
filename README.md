@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Naman+Jain+👋;SpringBoot+Dev+%7C+SDE+%7C+AWS;Freelance+Web+Developer+%7C+ReactJS">
 </p>
 
-**`3rd Year Engineering Student | SpringBoot Dev | Freelance Web Developer | DevOps Enthusiast`**
+**`3rd Year Engineering Student | SpringBoot Dev | Freelance Web Developer | AWS`**
 
 Welcome to my GitHub! This is where I build ideas into reality, debug through chaos, and learn something new every day 🚀
 
