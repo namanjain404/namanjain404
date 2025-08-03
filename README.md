@@ -11,6 +11,7 @@ Welcome to my GitHub! This is where I build ideas into reality, debug through ch
 - 💼 I also work as a **freelance web developer**, helping clients bring their websites to life.
 - 🧠 When not coding, you’ll find me vibing to **hip-hop** or dribbling on a **football field**.
 
+---
 
 ## 💼 Projects & Experience
 - 🔧 **CodeClause Internship** – Spring Boot backend development & collaborative team experience.
